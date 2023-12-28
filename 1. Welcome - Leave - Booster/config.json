@@ -1,0 +1,10 @@
+{
+  "token": "YOUR-BOT-TOKEN",
+  "bot_status": "Meantro",
+
+  "welcome_channel_id": ChannelID,
+  "leave_channel_id": ChannelID,
+
+  "booster_role": RoleID,
+  "booster_channel": ChannelID
+}
